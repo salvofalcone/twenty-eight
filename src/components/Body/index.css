@@ -1,3 +1,6 @@
-.Body {
-border: 2px solid green;
+.MainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
