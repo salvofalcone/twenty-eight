@@ -1,0 +1,25 @@
+.Header {
+  background-color: rgba(16, 16, 230, 0.764);
+}
+
+.Header__List {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px;
+}
+
+.Header__List--Item {
+  list-style-type: none;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+
+.Header__List--Item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.Header__List--Item a:hover {
+    color: #ffffffa4;
+  }
+  
