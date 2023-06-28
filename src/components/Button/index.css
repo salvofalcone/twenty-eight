@@ -1,0 +1,7 @@
+.Button {
+  padding: 8px 16px;
+  border-radius: 12px;
+  background-color: rgba(255, 206, 8, 0.799);
+  border: none;
+  text-transform: uppercase;
+}
